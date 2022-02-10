@@ -1,0 +1,22 @@
+/* Write all your custom CSS below this line  */
+
+body {
+    margin: 0;
+    background: #f0dccd;
+    
+}
+
+h3{
+    background-color: #6fa271;
+    font-family: monospace;
+}
+p{
+    background-color: #d4df85;
+    font-family: monospace;
+    padding:20px;
+}
+img{
+    border-style: outset;
+    border-width: 5px;
+    border-radius: 5px;
+}
