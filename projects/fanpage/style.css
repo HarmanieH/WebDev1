@@ -86,10 +86,20 @@ nav{
 a{
     color: #478567;
 }
+a:hover{
+    color:#78d6a9;
+    font-size: 130%;
+    font-family:'Courier New', Courier, monospace;
+}
+
 footer{
     background-color: white;
     border-style: solid;
     border-width: 2px;
     border-color: darkorchid;
     margin: 2%;
+}
+section{
+    margin: 5px 0px 5px 0px;
+    padding: 20px 40px 20px 40px;
 }
