@@ -1,0 +1,66 @@
+
+body{
+    background-image: url('https://static.displate.com/857x1200/displate/2019-09-05/06cd4c0616ca89d78f40b74224752308_e0fd5739385af0b157f707eca9974494.jpg');
+    background-size: cover;
+  }
+
+  #imgPlace {
+      position: relative;
+  }
+
+  #imgPlace img {
+     position:relative;
+                }
+
+  #imgPlace h4{
+    font-family: alagard;
+    font-size: 10em;
+    text-shadow: 5px 5px #2b2b2c;
+    color: #e6e6e6;
+
+    position:absolute;
+    top: 20px;
+    left: 20px;
+    z-index: 1;
+}
+.rollypanda{
+    position: relative;
+    left: 600px;
+    bottom: 225px;
+}
+h2,footer{
+    font-family: Indie Flower;
+}
+footer{
+    font-weight: bold;
+}
+.harleyquinn{
+    position: relative;  
+    right: 20px;
+    height: 100px;
+    width: 120px;
+}
+.poisonivy{
+    position: relative;
+    left: 35px;
+    right: 22px;
+    bottom: 26px;
+    height: 100px;
+    width: 120px;
+}
+.bts1{
+    position: relative;
+    left: 850px;
+    right: 67px;
+    bottom: 15px;
+    height: 150px;
+    width: 170px;
+}
+h3{
+    text-shadow: 2px 2px #681685;
+    color: #e6e6e6;
+    padding: 2%;
+}
+h3:hover {
+   color: yellow;
+  }
