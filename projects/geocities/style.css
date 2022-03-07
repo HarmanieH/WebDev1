@@ -1,0 +1,158 @@
+
+body{
+    background-image: url('https://static.displate.com/857x1200/displate/2019-09-05/06cd4c0616ca89d78f40b74224752308_e0fd5739385af0b157f707eca9974494.jpg');
+    background-size: cover;
+  }
+
+  #imgPlace {
+      position: relative;
+  }
+
+  #imgPlace img {
+     position:relative;
+                }
+
+  #imgPlace h4{
+    font-family: alagard;
+    font-size: 10em;
+    text-shadow: 5px 5px #2b2b2c;
+    color: #e6e6e6;
+
+    position:absolute;
+    top: 20px;
+    left: 20px;
+    z-index: 1;
+}
+.rollypanda{
+    position: relative;
+    left: 600px;
+    bottom: 225px;
+}
+h2,footer{
+    font-family: Indie Flower;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+footer{
+    font-weight: bold;
+}
+.harleyquinn{
+    position: relative;
+    left: 170px;
+    right: 35px;
+    bottom: 15px;
+    height: 110px;
+    width: 130px;
+
+    border-style: outset;
+    border-width: 5px;
+    border-radius: 5px;
+    border-color: white;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+.poisonivy{
+    position: relative;
+    left: 35px;
+    right: 22px;
+    bottom: 15px;
+    height: 110px;
+    width: 130px;
+
+    border-style: outset;
+    border-width: 5px;
+    border-radius: 5px;
+    border-color: white;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+.bts1{
+    position: relative;
+    left: 800px;
+    right: 67px;
+    bottom: 15px;
+    height: 110px;
+    width: 130px;
+
+    border-style: outset;
+    border-width: 5px;
+    border-radius: 5px;
+    border-color: white;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+.zendaya{
+    position: relative;
+    left: 470px;
+    right: 65px;
+    bottom: 15px;
+    height: 110px;
+    width: 130px;
+    
+    border-style: outset;
+    border-width: 5px;
+    border-radius: 5px;
+    border-color: white;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+.pasta{
+    position: relative;  
+    right: 5px;
+    left: 10px;
+    bottom: 15px;
+    height: 110px;
+    width: 130px;
+
+    border-style: outset;
+    border-width: 5px;
+    border-radius: 5px;
+    border-color: white;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+.stitch{
+    position: relative;
+    right: 170px;
+    bottom: 15px;
+    height: 110px;
+    width: 130px;
+
+    border-style: outset;
+    border-width: 5px;
+    border-radius: 5px;
+    border-color: white;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+.lavendertown{
+    position: relative;
+    right: 525px;
+    bottom: 15px;
+    height: 110px;
+    width: 130px;
+
+    border-style: outset;
+    border-width: 5px;
+    border-radius: 5px;
+    border-color: white;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+.ppg{
+    position: fixed;
+    left: 600px;
+    top: 0px;
+    height: 110px;
+    width: 130px;
+}
+
+h3{
+    text-shadow: 2px 2px #681685;
+    color: #e6e6e6;
+    padding: 2%;
+    font-style: italic;
+    font-family: alagard;
+    margin: 10px;
+    padding: 0.5%;
+    text-align: center;
+}
+img:hover {
+    transform: scale(1.2);
+  }
+
+  footer{
+      text-align: center;
+  }
