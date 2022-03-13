@@ -134,7 +134,7 @@ footer{
 .ppg{
     position: fixed;
     left: 600px;
-    top: 0px;
+    top: 1px;
     height: 110px;
     width: 130px;
 }
