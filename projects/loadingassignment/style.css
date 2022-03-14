@@ -1,7 +1,71 @@
 h1{
     color: blueviolet;
 }
+
 img{
     height: 25px;
     width: 25px;
+}
+
+div {
+    height: 40px;
+    width: 70%;
+    margin: 50px auto;
+    border-radius: 5px;
+    border-style: solid;
+  }
+
+#rect {
+    animation-name: rainbow;
+    animation-duration: 4s;
+    animation-iteration-count: 3;
+      }
+
+@keyframes rainbow {
+0% {
+background-color: gray;
+}
+50%{
+    left: 60%;
+      opacity: 0.1;
+}
+100% {
+      opacity: 0;
+}
+}
+
+  .balls {
+    border-radius: 30%;
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    top: 60%;
+    animation-name: jump;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+  }
+  #darkGray {
+    background: rgb(0, 0, 0);
+    left: 25%;
+    animation-timing-function: linear;
+  }
+  #gray{
+    background: rgb(46, 46, 52);
+    left: 50%;
+    animation-timing-function: ease-out;
+  }
+  #lightGray {
+    background: rgb(183, 187, 183);
+    left: 75%;
+    animation-timing-function: cubic-bezier(0.311, 0.441, 0.444, 1.649);
+  }
+
+  @keyframes jump {
+    50% {
+      top: 10%;
+    }
+    100%{
+          opacity: 0.1;
+    }
+
 }
