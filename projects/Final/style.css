@@ -1,0 +1,151 @@
+body{
+    background-image: url('https://us.123rf.com/450wm/sam74100/sam741001511/sam74100151100033/49170583-beautiful-color-gradient-sky-on-morning-sunrise.jpg?ver=6');
+    background-size: cover;
+  }
+
+  #navbar {
+    position:fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    background-color: #ffffff;
+  }
+  nav ul {
+    margin: 0px;
+    padding: 5px 0px 5px 30px;
+  }
+  nav li {
+    display: inline;
+    margin-right: 20px;
+  }
+  a {
+    text-decoration: none;
+  }
+
+  hr {
+    margin: 0px 0;
+    border-style: solid;
+    opacity: 0.3;
+  }
+
+div{
+  background-color: #ffffff;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+  text-align: center;
+  padding: 50px;
+  margin: 50px;
+}
+
+  #box-container {
+    background-color: rgba(45, 45, 45, 0.1);
+    display: flex;
+    height: 100%;
+    flex-wrap: wrap;
+    flex-direction: row;
+
+  }
+  #box-1 {
+    background-image: url('https://thenewdaily.com.au/wp-content/uploads/2020/02/1581836782-ezgif.com-crop.gif');
+    background-size: cover;
+    height: 80px;
+    width: 25%;
+
+    border-style: outset;
+    border-width: 2px;
+    border-radius: 2px;
+    border-color: white;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+   
+  }
+  #box-1:hover{
+    opacity: 30%;
+}
+
+  #box-2 {
+    background-image: url('https://media2.giphy.com/media/L33ULKVsqBQt0y9OO3/200.gif');
+     background-size: cover;
+    height: 80px;
+    width: 25%;
+  
+    border-style: outset;
+    border-width: 2px;
+    border-radius: 2px;
+    border-color: white;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+  }
+  #box-2:hover{
+    opacity: 30%;
+}
+
+
+  #box-3 {
+    background-image: url('https://media3.giphy.com/media/10VRhZMAqZbOgw/giphy.gif');
+    background-size: cover;
+    height: 80px;
+    width: 25%;
+
+    border-style: outset;
+    border-width: 2px;
+    border-radius: 2px;
+    border-color: white;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+  }
+  #box-3:hover{
+    opacity: 30%;
+}
+
+
+  #box-4 {
+    background-image: url('https://images.squarespace-cdn.com/content/v1/54bfc34ae4b052059c840330/1586265893067-A95PWB0N95Q2PUF5J75H/baking-banana-bread.gif');
+    background-size: cover;
+    height: 80px;
+    width: 25%;
+
+    border-style: outset;
+    border-width: 2px;
+    border-radius: 2px;
+    border-color: white;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+  }
+  #box-4:hover{
+    opacity: 30%;
+}
+
+
+  #box-5 {
+    background-image: url('https://data.whicdn.com/images/299679739/original.gif');
+    background-size: cover;
+    height: 80px;
+    width: 25%;
+
+    border-style: outset;
+    border-width: 2px;
+    border-radius: 2px;
+    border-color: white;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+  }
+  #box-5:hover{
+    opacity: 30%;
+}
+
+  #box-6 {
+    background-image: url('https://j.gifs.com/MwLBRm.gif');
+    background-size: cover;
+    height: 80px;
+    width: 25%;
+
+    border-style: outset;
+    border-width: 2px;
+    border-radius: 2px;
+    border-color: white;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+  }
+  #box-6:hover{
+    opacity: 30%;
+}
+
+footer{
+  background-color: rgb(201, 200, 200);
+  padding: 0.1px;
+
+}
