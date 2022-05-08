@@ -64,8 +64,4 @@ background-color: gray;
     50% {
       top: 10%;
     }
-    100%{
-          opacity: 0.1;
-    }
-
 }
