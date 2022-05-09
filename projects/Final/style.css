@@ -1,7 +1,10 @@
+@media (max-height: 800px) {div {font-size: 20px;}}
+
 body{
     background-image: url('https://us.123rf.com/450wm/sam74100/sam741001511/sam74100151100033/49170583-beautiful-color-gradient-sky-on-morning-sunrise.jpg?ver=6');
     background-size: cover;
-    font-family: Tapestry;
+    max-width: 100%;
+    height: auto;
   }
 
   #navbar {
@@ -10,6 +13,8 @@ body{
     left: 0px;
     width: 100%;
     background-color: #ffffff;
+    max-width: 100%;
+    height: auto;
   }
   nav ul {
     margin: 0px;
@@ -50,6 +55,8 @@ div{
     height: 100%;
     flex-wrap: wrap;
     flex-direction: row;
+    max-width: 100%;
+    height: auto;
 
   }
   #box-1 {
@@ -64,6 +71,8 @@ div{
     border-color: white;
     box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
    
+    max-width: 100%;
+    height: auto;
   }
   #box-1:hover{
     opacity: 30%;
@@ -83,6 +92,7 @@ div{
   }
   #box-2:hover{
     opacity: 30%;
+    
 }
 
 
@@ -160,4 +170,21 @@ footer{
 
 .seethrough{
   background-color: rgba(149, 52, 52, 0.1);
+}
+
+.music{
+  display: inline;
+  margin-left: 70%;
+}
+
+i{
+  font-family: alagard;
+ text-align: center;
+}
+
+.text{
+  color: rgb(234, 213, 164);
+  font-family: alagard;
+  text-decoration-line: underline overline;
+  text-shadow: 2px 2px rgb(7, 7, 7);
 }
