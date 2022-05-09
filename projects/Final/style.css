@@ -1,6 +1,7 @@
 body{
     background-image: url('https://us.123rf.com/450wm/sam74100/sam741001511/sam74100151100033/49170583-beautiful-color-gradient-sky-on-morning-sunrise.jpg?ver=6');
     background-size: cover;
+    font-family: Tapestry;
   }
 
   #navbar {
@@ -148,4 +149,8 @@ footer{
   background-color: rgb(201, 200, 200);
   padding: 0.1px;
 
+}
+
+.seethrough{
+  background-color: rgba(149, 52, 52, 0.1);
 }
